@@ -43,7 +43,11 @@ We aim to develop an Artificial Intelligence (AI) model that can analyze endosco
 patient care. 
 
 # Intel One API AIAnalytics toolkit:
-The mian goal of our project was to fine-tune  an object classification model using our custom datsets. The aim was for the model to classify endoscopic images into high risk and low risk varices with accuracy. The use of AI Analytics Toolkit surprised us with its optimization and performance. We were able to complete our project effectively in less time.
+The main goal of our project was to fine-tune  an object classification model using our custom datsets. The aim was for the model to classify endoscopic images into high risk and low risk varices with accuracy. The use of AI Analytics Toolkit surprised us with its optimization and performance. We were able to complete our project effectively in less time.
+
 # Description
 We used VGG16 model, with custom layers at the end for object classification.
-Due to its fixed format for datsets training the model with our custom datset was challenging. Thus, changing our dataset to the required format was time consuming. 
+Due to its fixed format for datsets training the model with our custom datset was challenging. Thus, changing our dataset to the required format was time consuming. Intense training was conducted which equipped the model to classify varices with atmost precision.
+
+# Intel AI analytics toolkit in Data preprocessing
+Our custom dataset have to be preprocessed before sending it to VGG16 for training. 
