@@ -5,7 +5,7 @@ Team leader email id:cb.en.u4aee22048@cb.students.amrita.edu
 # Problem Statement: 
 **PROJECT VARICE-VISION**: Leveraging deep learning for real-time detection and risk stratification of esophageal varices in endoscopy, revolutionizing diagnosis with improved accuracy and efficiency.
 
-# 1. Context and Background
+# Context and Background
  Esophageal varices are enlarged, swollen veins in the 
 esophagus (the muscular tube connecting the throat to the 
 stomach) often caused by portal hypertension. These 
@@ -17,7 +17,7 @@ complications particularly in cases where banding is required.
 ![13052023-095113786970](https://github.com/PraneishSAero/Team-Pushpak-Hackathon/assets/119675623/8042d0b3-424d-4cfa-b47f-2f152f235263)
 
 
-# 2. Problem Definition
+# Problem Definition
  Currently, endoscopy, a visual examination of the upper digestive tract, is the primary method for 
 diagnosing esophageal varices. However, accurate assessment of variceal risk (low, medium, high) and 
 bleeding probability remains subjective and relies on the expertise of individual endoscopists. If high-risk 
@@ -27,13 +27,13 @@ Contrary, not all varices (even the high-risk ones) have a high probability of b
 complex and expensive procedure – is preferred to eliminate the benefit of the doubt. Not to mention the 
 complications that could arise from banding itself like chest pain and narrowed esophagus.
 
-# 3. Desired Outcome
+# Desired Outcome
 We aim to develop an Artificial Intelligence (AI) model that can analyze endoscopic data to:
  • Automate the detection and segmentation of esophageal varices.
  • Classify varices into low, medium, and high-risk categories based on established medical criteria.
  • Predict the probability of bleeding for high-risk varices, aiding in treatment decisions like banding.
 
-# 4. Impact
+# Impact
  The AI-powered solution has the potential to:
  • Improve the accuracy and consistency of esophageal varice diagnosis and risk assessment.
  • Reduce the risk of missed diagnoses and delayed interventions.
