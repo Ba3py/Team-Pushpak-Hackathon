@@ -42,5 +42,5 @@ We aim to develop an Artificial Intelligence (AI) model that can analyze endosco
  • Increase efficiency in endoscopy procedures, allowing healthcare professionals to dedicate more time to 
 patient care. 
 
-#Intel One API AIAnalytics toolkit:
+# Intel One API AIAnalytics toolkit:
 The mian goal of our project was to fine-tune  an object classification model using our custom datsets. The aim was for the model to classify endoscopic images into high risk and low risk varices with accuracy. The use of AI Analytics Toolkit
