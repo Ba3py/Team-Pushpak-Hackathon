@@ -1,4 +1,4 @@
-![13052023-095113786970](https://github.com/PraneishSAero/Team-Pushpak-Hackathon/assets/119675623/f2d00128-9ee4-4695-ab94-eb1a2943ee93)# Team-Pushpak-Hackathon
+# Team-Pushpak-Hackathon
 Team Name: Team PUSHPAK
 Team leader email id:
 
