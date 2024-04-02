@@ -1,6 +1,6 @@
 # Team-Pushpak-Hackathon
 Team Name: Team PUSHPAK
-Team leader email id:
+Team leader email id:cb.en.u4aee22048@cb.students.amrita.edu
 
 # Problem Statement: 
 **PROJECT VARICE-VISION**: Leveraging deep learning for real-time detection and risk stratification of esophageal varices in endoscopy, revolutionizing diagnosis with improved accuracy and efficiency.
@@ -52,4 +52,8 @@ Due to its fixed format for datsets training the model with our custom datset wa
 # Intel AI analytics toolkit in Data preprocessing
 Our custom dataset have to be preprocessed before sending it to VGG16 for training. We have used DAal from Data Analytics Library for efficient data loading, cleaning, normalization, and feature extraction from the endoscopic images. DAal helped us to convert images to required format in very less time. 
 
-
+#  Intel® oneAPI Deep Neural Networks Library (DLNNL)
+ Using DLNNL for building and training the deep learning model and using its 
+functionalities for:
+ • Defining the model architecture (e.g., convolutional neural networks)
+ • Implementing training routines and optimization algorithms
