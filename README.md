@@ -50,4 +50,4 @@ We used VGG16 model, with custom layers at the end for object classification.
 Due to its fixed format for datsets training the model with our custom datset was challenging. Thus, changing our dataset to the required format was time consuming. Intense training was conducted which equipped the model to classify varices with atmost precision.
 
 # Intel AI analytics toolkit in Data preprocessing
-Our custom dataset have to be preprocessed before sending it to VGG16 for training. We have used DAal from Data Analytics Library.
+Our custom dataset have to be preprocessed before sending it to VGG16 for training. We have used DAal from Data Analytics Library for efficient data loading, cleaning, normalization, and feature extraction from the endoscopic images. DAal helped us to convert images to required format in very less time.
